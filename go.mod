@@ -1,3 +1,3 @@
-module github.com/decred/go-socks
+module github.com/hdfchain/go-socks
 
-go 1.11
+go 1.14
